@@ -2,7 +2,8 @@
 _________________________
 What FCipher is? 
 
-Cipher application , twofish Algorithm .
+Cipher application.
+using twofish Algorithm .
 _____________________________________
 How to use this application?
 
