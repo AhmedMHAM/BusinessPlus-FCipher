@@ -8,6 +8,8 @@ using twofish Algorithm .
 _____________________________________
 ** How to use this application?
 
+application work in command line 
+
 in cmd type:
 
 c:\FCipher + key + plain Text
@@ -24,4 +26,6 @@ ________________________________________
 2- reading plain text and cipher it.
 
 3- using c langauge in developing .
+
+4- Design GUI For Application
 _________________________________________
