@@ -1,6 +1,6 @@
 # BusinessPlus-FCipher
 _________________________
-Waht FCipher is? 
+What FCipher is? 
 
 Cipher application , twofish Algorithm .
 _____________________________________
