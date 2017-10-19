@@ -26,6 +26,11 @@ c:\FCipher + key + plain Text
 Example:
 
 c:\FCipher 11223344556677889900aabbccddeeff Liza
+________________________________________________
+
+Tools:
+
+Visual Studio 2012
 
 ________________________________________
 ** Road Map:
