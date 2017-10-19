@@ -4,7 +4,11 @@ _________________________
 
 Cipher application.
 
-using twofish Algorithm .
+using:
+blowfish algorithm.
+twofish algorithm .
+threefish algorithm .
+
 _____________________________________
 ** How to use this application?
 
