@@ -12,6 +12,7 @@ twofish algorithm .
 
 threefish algorithm .
 
+speck algorithm.
 
 _____________________________________
 ** How to use this application?
